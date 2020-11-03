@@ -1,0 +1,21 @@
+h2{
+    font-size: 16px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 600px;
+}
+h3{
+    font-size: 15px;
+    text-align: left;
+    text-transform: capitalize;
+    width: 600px;
+}
+p{
+    text-align: left;
+    font-size: 15px;
+    width: 600px;
+}
+figure{
+    font-size: 10px;
+    text-align: justify;
+}
